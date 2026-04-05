@@ -1,0 +1,3 @@
+  venv/Scripts/activate                                                                                                                             
+  pip install langchain-openai langchain-chroma
+  streamlit run src/app.py

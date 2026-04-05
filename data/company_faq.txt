@@ -1,0 +1,56 @@
+# NexaAI - Company FAQ & Knowledge Base
+
+## About the Company
+
+NexaAI is a technology company founded in 2020, headquartered in Kuala Lumpur, Malaysia. We specialize in building AI-powered software solutions for small and medium businesses. Our mission is to make advanced technology accessible to every business. We currently have over 150 employees across 3 offices in Malaysia, Singapore, and Indonesia.
+
+## Products and Services
+
+### NexaCRM
+NexaCRM is our flagship customer relationship management platform. It uses AI to automatically categorize leads, predict customer churn, and suggest personalized outreach strategies. Pricing starts at $29/month for the Starter plan (up to 1,000 contacts), $79/month for the Professional plan (up to 10,000 contacts), and $199/month for the Enterprise plan (unlimited contacts with dedicated support). All plans include a 14-day free trial with no credit card required.
+
+### NexaChat
+NexaChat is our AI-powered customer support chatbot that can be embedded on any website. It learns from your FAQ documents and previous support tickets to answer customer questions automatically. It supports 12 languages including English, Malay, Chinese, Tamil, Indonesian, Thai, Vietnamese, Japanese, Korean, Filipino, Hindi, and Arabic. Pricing is $49/month for up to 5,000 conversations, and $149/month for unlimited conversations.
+
+### NexaAnalytics
+NexaAnalytics is our business intelligence dashboard that connects to your existing tools (Shopify, WooCommerce, Google Analytics, social media accounts) and provides AI-generated insights about your business performance. It can forecast sales, identify trends, and suggest actionable recommendations. Pricing is $39/month for the Basic plan and $99/month for the Advanced plan with predictive analytics.
+
+## Technical Support
+
+### How to reset your password
+To reset your password, go to https://app.nexaai.com/reset-password and enter your registered email address. You will receive a password reset link within 5 minutes. The link expires after 24 hours. If you don't receive the email, check your spam folder or contact support@nexaai.com.
+
+### System requirements
+NexaCRM works on all modern web browsers including Chrome, Firefox, Safari, and Edge. We recommend Chrome for the best experience. The mobile app is available for iOS 15+ and Android 12+. NexaChat widget requires JavaScript to be enabled on your website.
+
+### API access
+API access is available on Professional and Enterprise plans for NexaCRM, and on the unlimited plan for NexaChat. API documentation is available at https://docs.nexaai.com/api. Rate limits are 100 requests per minute for Professional and 1,000 requests per minute for Enterprise. We provide SDKs for Python, JavaScript, PHP, and Java.
+
+### Data security
+All data is encrypted at rest using AES-256 encryption and in transit using TLS 1.3. Our servers are hosted on AWS in the Singapore region (ap-southeast-1). We are SOC 2 Type II certified and PDPA compliant. We perform daily backups with 30-day retention. Customer data is never used to train AI models without explicit consent.
+
+## Billing and Payments
+
+### Accepted payment methods
+We accept Visa, Mastercard, American Express, and PayPal. For Enterprise customers, we also offer bank transfer and invoice-based billing with NET 30 terms. All prices are in USD.
+
+### How to upgrade or downgrade your plan
+You can change your plan at any time from Settings → Billing → Change Plan in your dashboard. Upgrades take effect immediately with prorated billing. Downgrades take effect at the start of your next billing cycle. No penalties for downgrading.
+
+### Refund policy
+We offer a full refund within the first 30 days of any new subscription. After 30 days, we provide prorated refunds for annual plans only. Monthly plans are non-refundable after the 30-day window. To request a refund, email billing@nexaai.com with your account details.
+
+### Cancel subscription
+You can cancel your subscription at any time from Settings → Billing → Cancel Subscription. Your account will remain active until the end of your current billing period. After cancellation, your data is retained for 90 days. You can reactivate your account within this period without losing any data.
+
+## Contact Information
+
+- General inquiries: hello@nexaai.com
+- Technical support: support@nexaai.com (24/7 live chat available)
+- Billing questions: billing@nexaai.com
+- Phone: +60 3-1234-5678 (Mon-Fri, 9 AM - 6 PM MYT)
+- Office address: Level 15, Menara NexaAI, Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia
+
+## Careers
+
+We are always looking for talented people to join our team. Current openings include Software Engineers, AI/ML Engineers, Product Managers, and Customer Success Specialists. Visit https://careers.nexaai.com for open positions. We offer competitive salaries, flexible work arrangements (hybrid or fully remote), health insurance, annual learning budget of $2,000, and stock options for all full-time employees.
